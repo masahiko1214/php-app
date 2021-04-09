@@ -1,3 +1,4 @@
 Rails.application.routes.draw do
-  resources :tweets, only: :index
+  root to: 'phps#index'
+  resources :phps, only: :index
 end
