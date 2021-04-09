@@ -12,4 +12,15 @@
     // $circleAreaをechoしてください
     echo $circleArea;
     
+// if文
+    $age = 31;
+    if($age >= 30){
+      echo 'あなたは30歳以上です。';
+    }
+      else{
+        echo 'あなたは30歳未満です。';
+        
+      }
+      
+
   ?>
