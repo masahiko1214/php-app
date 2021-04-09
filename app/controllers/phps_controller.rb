@@ -1,0 +1,2 @@
+class PhpsController < ApplicationController
+end
